@@ -16,7 +16,7 @@ func main() {
 		panic(err)
 	}
 	// target server
-	host := "151.80.230.149"
+	host := "162.19.95.184"
 	port := "27015"
 
 	// Connect to host
@@ -28,7 +28,7 @@ func main() {
 
 	// Add a receiver for our expected packet type
 	playerName := "DormantLemon^___"
-	password := "test789"
+	password := "devowari"
 	gameVersion := "4630212"
 	clientChallenge := int32(167679079)
 

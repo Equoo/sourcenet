@@ -1,5 +1,7 @@
 github.com/Equoo/update-steamworks v0.0.0-20231120201530-6b7b8e936e63 h1:z98UcLWbRtGgIkGEBJGYFEriZNyHYQC0dLYvxyeFIq0=
 github.com/Equoo/update-steamworks v0.0.0-20231120201530-6b7b8e936e63/go.mod h1:SoiXD4QlLGDSwmQKy6t6sfgGw1RH9rV4ij9+xW3v4U4=
+github.com/Equoo/update-steamworks v0.0.0-20231120210142-5ef572942463 h1:arecTbhm5BOynXd4aogGgsMSCYntPiNn0erG10VVyz0=
+github.com/Equoo/update-steamworks v0.0.0-20231120210142-5ef572942463/go.mod h1:yWsNTkBc6kqB8wFnl5OgnOpOPE8vM89HYqL/dk+O7Jc=
 github.com/galaco/bitbuf v1.1.0 h1:J2OM7aZhhg32IrfXuUUzFuTOCtu/4dG0brnBp2SDffM=
 github.com/galaco/bitbuf v1.1.0/go.mod h1:3bfABzFKOBjqc65R3yDEqDm09NVE+VJwnT2wBNOt2jg=
 github.com/galaco/checksum v0.0.0-20210420042153-5b03c75be436 h1:y6bkFMHYuf2/M059Nu2A9X83nq23HkiKTOC+q24HAoc=
