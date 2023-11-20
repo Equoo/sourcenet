@@ -1,4 +1,4 @@
-module github.com/galaco/sourcenet
+module github.com/Equoo/sourcenet
 
 go 1.13
 

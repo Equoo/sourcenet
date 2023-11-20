@@ -2,7 +2,7 @@ package sourcenet
 
 import (
 	"fmt"
-	"github.com/galaco/sourcenet/message"
+	"github.com/Equoo/sourcenet/message"
 	"net"
 )
 

@@ -2,10 +2,10 @@ package main
 
 import (
 	"bufio"
-	"github.com/galaco/sourcenet"
-	"github.com/galaco/sourcenet/listener"
-	"github.com/galaco/sourcenet/message"
-	"github.com/equoo/update-steamworks"
+	"github.com/Equoo/sourcenet"
+	"github.com/Equoo/sourcenet/listener"
+	"github.com/Equoo/sourcenet/message"
+	"github.com/Equoo/update-steamworks"
 	"log"
 	"os"
 )

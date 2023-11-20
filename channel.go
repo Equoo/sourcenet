@@ -3,8 +3,8 @@ package sourcenet
 import (
 	"github.com/galaco/bitbuf"
 	"github.com/galaco/checksum"
-	"github.com/galaco/sourcenet/message"
-	"github.com/galaco/sourcenet/utils"
+	"github.com/Equoo/sourcenet/message"
+	"github.com/Equoo/sourcenet/utils"
 	"log"
 )
 

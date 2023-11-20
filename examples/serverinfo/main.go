@@ -2,8 +2,8 @@ package main
 
 import (
 	"bufio"
-	"github.com/galaco/sourcenet"
-	"github.com/galaco/sourcenet/message"
+	"github.com/Equoo/sourcenet"
+	"github.com/Equoo/sourcenet/message"
 	"log"
 	"os"
 	"strings"

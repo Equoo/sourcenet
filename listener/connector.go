@@ -2,10 +2,10 @@ package listener
 
 import (
 	"github.com/galaco/bitbuf"
-	"github.com/galaco/sourcenet"
-	"github.com/galaco/sourcenet/message"
-	"github.com/equoo/update-steamworks"
-	"github.com/equoo/update-steamworks/steamauth"
+	"github.com/Equoo/sourcenet"
+	"github.com/Equoo/sourcenet/message"
+	"github.com/Equoo/update-steamworks"
+	"github.com/Equoo/update-steamworks/steamauth"
 	"log"
 )
 

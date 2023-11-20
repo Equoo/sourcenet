@@ -1,6 +1,6 @@
-[![GoDoc](https://godoc.org/github.com/Galaco/sourcenet?status.svg)](https://godoc.org/github.com/Galaco/sourcenet)
-[![Go report card](https://goreportcard.com/badge/github.com/galaco/sourcenet)](https://goreportcard.com/badge/github.com/galaco/sourcenet)
-[![GolangCI](https://golangci.com/badges/github.com/galaco/sourcenet.svg)](https://golangci.com)
+[![GoDoc](https://godoc.org/github.com/Equoo/sourcenet?status.svg)](https://godoc.org/github.com/Equoo/sourcenet)
+[![Go report card](https://goreportcard.com/badge/github.com/Equoo/sourcenet)](https://goreportcard.com/badge/github.com/Equoo/sourcenet)
+[![GolangCI](https://golangci.com/badges/github.com/Equoo/sourcenet.svg)](https://golangci.com)
 [![Build Status](https://travis-ci.com/Galaco/sourcenet.svg?branch=master)](https://travis-ci.com/Galaco/sourcenet)
 [![CircleCI](https://circleci.com/gh/Galaco/sourcenet.svg?style=svg)](https://circleci.com/gh/Galaco/sourcenet)
 
