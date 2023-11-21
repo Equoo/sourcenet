@@ -1,6 +1,6 @@
 module github.com/Equoo/sourcenet
 
-go 1.21.4
+go 1.13
 
 require (
 	github.com/Equoo/update-steamworks v0.0.0-20231120210142-5ef572942463 // indirect
